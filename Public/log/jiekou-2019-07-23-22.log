@@ -1,0 +1,3 @@
+[2019-07-23 22:38:38.069506] INFO: jiekou: 当前模块 断言测试结果
+[2019-07-23 22:38:38.070610] INFO: jiekou: 全部args参数参数信息 , ('code=0', {'code': 0, 'result': '{"redirect":"https://www.uat.art2print.cn"}'})
+[2019-07-23 22:38:38.071063] INFO: jiekou: 全部kwargs参数信息 , {}

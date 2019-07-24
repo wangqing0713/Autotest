@@ -1,0 +1,16 @@
+[2019-07-23 21:56:00.422557] INFO: jiekou: 当前模块 requests封装
+[2019-07-23 21:56:00.423445] INFO: jiekou: 全部args参数参数信息 , ()
+[2019-07-23 21:56:00.423759] INFO: jiekou: 全部kwargs参数信息 , {}
+[2019-07-23 21:56:00.449959] INFO: jiekou: 当前模块 解析测试用例文件
+[2019-07-23 21:56:00.450286] INFO: jiekou: 全部args参数参数信息 , ('/Users/lucky/Documents/GitHub/Test/Ec_Autotest/test_case_data/case.xlsx',)
+[2019-07-23 21:56:00.450535] INFO: jiekou: 全部kwargs参数信息 , {}
+[2019-07-23 21:56:00.512791] INFO: jiekou: 当前模块 解析测试用例文件
+[2019-07-23 21:56:00.513124] INFO: jiekou: 全部args参数参数信息 , ('/Users/lucky/Documents/GitHub/Test/Ec_Autotest/test_case_data/case.xlsx',)
+[2019-07-23 21:56:00.513400] INFO: jiekou: 全部kwargs参数信息 , {}
+[2019-07-23 21:56:00.527774] INFO: jiekou: 当前模块 测试
+[2019-07-23 21:56:00.528129] INFO: jiekou: 全部args参数参数信息 , ()
+[2019-07-23 21:56:00.528392] INFO: jiekou: 全部kwargs参数信息 , {}
+[2019-07-23 21:56:20.184461] INFO: jiekou: inputdata> 参数:type=1&loginBy=13426380559&password=123456&imgCode=&target=https%3A%2F%2Fwww.uat.art2print.cn&code=&mobile=, url:/api/user/login ,返回:{'code': 0, 'result': '{"redirect":"https://www.uat.art2print.cn"}'},预期:code=0
+[2019-07-23 21:56:32.305521] INFO: jiekou: 当前模块 断言测试结果
+[2019-07-23 21:56:32.306186] INFO: jiekou: 全部args参数参数信息 , ()
+[2019-07-23 21:56:32.306485] INFO: jiekou: 全部kwargs参数信息 , {'asserqiwang': 'code=0', 'fanhuijson': {'code': 0, 'result': '{"redirect":"https://www.uat.art2print.cn"}'}}
